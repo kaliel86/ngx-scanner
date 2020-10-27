@@ -1,0 +1,94 @@
+{
+  "configVersion": 1,
+  "timestamp": 1603778059826,
+  "index": "/ngx-scanner/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/ngx-scanner/favicon.ico",
+        "/ngx-scanner/index.html",
+        "/ngx-scanner/main-es2015.225e306e41cbed26058d.js",
+        "/ngx-scanner/main-es5.225e306e41cbed26058d.js",
+        "/ngx-scanner/manifest.webmanifest",
+        "/ngx-scanner/polyfills-es2015.5688399aeaab864b7556.js",
+        "/ngx-scanner/polyfills-es5.7646482123a4b919cc12.js",
+        "/ngx-scanner/runtime-es2015.4f10758700411b33a68a.js",
+        "/ngx-scanner/runtime-es5.4f10758700411b33a68a.js",
+        "/ngx-scanner/styles.ddc7061fa5a8a642a193.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/ngx-scanner/assets/icons/icon-128x128.png",
+        "/ngx-scanner/assets/icons/icon-144x144.png",
+        "/ngx-scanner/assets/icons/icon-152x152.png",
+        "/ngx-scanner/assets/icons/icon-16x16.png",
+        "/ngx-scanner/assets/icons/icon-192x192.png",
+        "/ngx-scanner/assets/icons/icon-32x32.png",
+        "/ngx-scanner/assets/icons/icon-384x384.png",
+        "/ngx-scanner/assets/icons/icon-512x512.png",
+        "/ngx-scanner/assets/icons/icon-72x72.png",
+        "/ngx-scanner/assets/icons/icon-96x96.png",
+        "/ngx-scanner/assets/icons/mstile-150x150.png",
+        "/ngx-scanner/assets/icons/safari-pinned-tab.svg"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/ngx-scanner/assets/icons/icon-128x128.png": "842bdceef25f5740f200de22180141847b2f0b80",
+    "/ngx-scanner/assets/icons/icon-144x144.png": "58b1834a019ac1717860017605a8aea507d357b5",
+    "/ngx-scanner/assets/icons/icon-152x152.png": "40fbef2fb5ccb2b372fc999b8b85ce140d0941cd",
+    "/ngx-scanner/assets/icons/icon-16x16.png": "f29dd83494bacad509ab9209d0fe3bac590372f3",
+    "/ngx-scanner/assets/icons/icon-192x192.png": "87928464dba1d7c788c9f6de956f99947470a359",
+    "/ngx-scanner/assets/icons/icon-32x32.png": "f2e0a73c6d735cc1e3c2cb1ffa964b684326cdbf",
+    "/ngx-scanner/assets/icons/icon-384x384.png": "58fd074eca66c6223ad217c1c0c7d06880a08e53",
+    "/ngx-scanner/assets/icons/icon-512x512.png": "751e451c3df49031d4e76c4560eff56f1716a002",
+    "/ngx-scanner/assets/icons/icon-72x72.png": "58d6745b5ff885601c61c11e1775fc7b5f045e7f",
+    "/ngx-scanner/assets/icons/icon-96x96.png": "6ca29999af98f0cf163cde2ee82af440f8c7bac6",
+    "/ngx-scanner/assets/icons/mstile-150x150.png": "97db6b63f6214367fa49e266add632bc8af3f5a4",
+    "/ngx-scanner/assets/icons/safari-pinned-tab.svg": "03d482e5aa20cb76842fcf984d28cd65c0423987",
+    "/ngx-scanner/favicon.ico": "a2eaf72bbac9bea51761890d3665734f0bc390f4",
+    "/ngx-scanner/index.html": "94cc88ec0b54cef310620b59ad8d7f9ceb804685",
+    "/ngx-scanner/main-es2015.225e306e41cbed26058d.js": "f50e4f6a6a64f4937fe20bbbc0503c9f2277e16f",
+    "/ngx-scanner/main-es5.225e306e41cbed26058d.js": "f9e6ec74bab12b5c51344c23ee8118b297ba71d0",
+    "/ngx-scanner/manifest.webmanifest": "51807fd77aff1ac5c3b6bb2c06722f4e20516182",
+    "/ngx-scanner/polyfills-es2015.5688399aeaab864b7556.js": "65fc1545e50d7022e5c223f97a941c5c043bc2bc",
+    "/ngx-scanner/polyfills-es5.7646482123a4b919cc12.js": "badec9e2216e07d6ec3840fc0d428f79b25ab58b",
+    "/ngx-scanner/runtime-es2015.4f10758700411b33a68a.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "/ngx-scanner/runtime-es5.4f10758700411b33a68a.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "/ngx-scanner/styles.ddc7061fa5a8a642a193.css": "d6c1e4ba969895e9d51a0e7b5b5bdd05344b673b"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
